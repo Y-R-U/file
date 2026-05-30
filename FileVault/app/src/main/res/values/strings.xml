@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FileVault</string>
+    <string name="import_file">Import File</string>
+    <string name="export_file">Export</string>
+    <string name="delete_file">Delete</string>
+    <string name="share_file">Share</string>
+    <string name="sort_by">Sort by</string>
+    <string name="select_all">Select All</string>
+    <string name="files_selected">files selected</string>
+    <string name="empty_vault">Your vault is empty</string>
+    <string name="empty_vault_hint">Tap Import to add files</string>
+    <string name="delete_confirm">Delete selected files?</string>
+    <string name="delete_confirm_msg">This cannot be undone.</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete">Delete</string>
+    <string name="sort_name">Name</string>
+    <string name="sort_date">Date</string>
+    <string name="sort_size">Size</string>
+    <string name="sort_type">Type</string>
+</resources>
